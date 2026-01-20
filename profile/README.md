@@ -11,6 +11,8 @@
 
 [🎮 게임 시작하기](#) | [📖 문서](https://github.com/LOGA-League-Of-Gacha) | [💬 커뮤니티](#) | [🐛 버그 리포트](#)
 
+![Image](https://github.com/user-attachments/assets/6abd113a-3f95-4113-8b2b-2371c82ad249)
+
 </div>
 
 ---
